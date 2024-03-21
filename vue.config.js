@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/vuejs-movies-example/'
+    publicPath: '/vuejs-movies-example-/'
 };
